@@ -155,7 +155,7 @@ Para cada uno de los anteriores atributos de calidad se planteó un escenario de
 ![](https://github.com/AdrianDel2/Lab2_solid/blob/main/img/imagen11.png)
 >Imagen 11. Diagrama de clases del microservicio de pago. Elaboración propia
 
-![](https://github.com/AdrianDel2/Lab2_solid/blob/main/img/imagen12.png)
+![](https://github.com/AdrianDelgado24/HyunSeda3/blob/main/img/imagen12.jpg)
 >Imagen 12. Diagrama de clases del microservicio de producto(hexagonal). Elaboración propia
 
 ---
