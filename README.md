@@ -67,6 +67,12 @@ Y aquí se adjuntan los enlaces a los videos donde se hace la prueba de usabilid
 >Imagen 6. Captura de los test realizados para el software. Elaboración propia.
 
 ---
+### Implementacion de Swagger
+
+![](https://github.com/AdrianDelgado24/HyunSeda3/blob/main/img/swagger.png)
+>Captura de la implementacion de Swagger en el microServicio de producto.
+>
+---
 
 ## Requisitos no funcionales
 Los requisitos no funcionales identificados mediante la aplicación de un Mini-QAW en conjunto con el cliente son los siguientes:
