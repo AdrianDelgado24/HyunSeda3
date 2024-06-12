@@ -61,7 +61,7 @@ Y aquí se adjuntan los enlaces a los videos donde se hace la prueba de usabilid
 - Video 2: https://github.com/AdrianDel2/Lab2_solid/assets/159732648/02d829cd-1950-49c0-b78d-3c4aaf9f9f25
 
 ---
-###Pruebas Unitarias
+### Pruebas Unitarias
 Se presenta un resumen de las pruebas realizadas para el proyecto.
 ![](https://github.com/AdrianDelgado24/HyunSeda3/blob/main/img/imagen6.png)
 >Imagen 6. Captura de los test realizados para el software. Elaboración propia.
