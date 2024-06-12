@@ -62,7 +62,7 @@ Y aquí se adjuntan los enlaces a los videos donde se hace la prueba de usabilid
 
 ---
 ### Pruebas Unitarias
-Se presenta un resumen de las pruebas realizadas para el proyecto.
+
 ![](https://github.com/AdrianDelgado24/HyunSeda3/blob/main/img/imagen6.png)
 >Imagen 6. Captura de los test realizados para el software. Elaboración propia.
 
